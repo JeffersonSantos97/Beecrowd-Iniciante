@@ -4,7 +4,7 @@ public class Exer_1002 {
 
     public static void main(String[] args) {
 
-        // Area do circulo - 
+        // Area do circulo -
 
         Scanner sc = new Scanner ( System.in);
 
